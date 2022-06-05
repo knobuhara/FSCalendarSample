@@ -1,4 +1,5 @@
 # FSCalendarSample
+  <img src="https://user-images.githubusercontent.com/88915966/172045688-86500620-3b2f-4c1d-9d42-88dea8c12052.png" width="500">
 
 ### 環境構築
 #### cocoapodsのインストール
